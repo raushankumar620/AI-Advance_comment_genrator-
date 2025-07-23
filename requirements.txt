@@ -30,3 +30,6 @@ tree-sitter-cpp==0.23.3
 # CLI/UI Helpers
 colorama==0.4.6
 rich==13.7.0
+
+gunicorn==21.2.0
+

@@ -278,7 +278,7 @@ PORT=5000
 
 ---
 
-## 🤝 Contributing
+## 🤝Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
